@@ -1,4 +1,4 @@
-# house-price-growth-analysis
+# House-Price-Growth-Analysis
 ## Project Problem:
 ### We have one month of real house advertisement data from two district years 2021 and 2023 that were crawled from the Divar website. We want to use this data to predict which house and with which specifications give us the most profit and cluster them or classify them into a maximum of 30 groups based on the profit
 ### Note: the main focus of the project was on the profit that we received not the price only.
